@@ -11,3 +11,5 @@ https://docs.podman.io/en/v5.0.3/markdown/podman-save.1.html
 # alt: export
 https://www.google.com/search?q=podman+export
 https://www.google.com/search?q=podman+export+image
+
+- [More Differentiation between save/load and import/export](https://github.com/containers/podman/issues/22155)
